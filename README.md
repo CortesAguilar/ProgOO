@@ -18,6 +18,6 @@
       
 # ÍNDICE
 
-1. [Tarea 1](https://www.youtube.com/@mariosky)
+1. [Investigación Unidad 1](https://github.com/SrcrowhiteITT/ProgOO/tree/main/ParadigmaOO)
 2. [Tarea 2](https://www.youtube.com/@mariosky)
 3. [Tarea 3](https://www.youtube.com/@mariosky)
